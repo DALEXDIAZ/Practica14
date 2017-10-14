@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/cal.jpg);
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(13, 67, 182);
+}
+table tr th{
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    border: 10px solid ;
+    background-color: rgb(29, 191, 216);
+    border-collapse: separate;
+    border-color: rgb(92, 21, 21);
+}
+
+#letra {
+    -webkit-text-fill-color: rgb(74, 14, 131);
+    -webkit-text-stroke: 2px rgba(161, 162, 168, 0.178);
+    }
